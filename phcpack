@@ -8,13 +8,11 @@ Description:
 
 Proposed by: dan and mike
 Potential Advisor: Jan Verschelde
-Project assigned to: Anton Leykin, March, 2008
+Project assigned to: Elizabeth Gross, Sonja Petrovic
 Current status:
 
+    A package "PHCpack" has been written by Elizabeth Gross, Sonja Petrovic, Jan
+    Verschelde, with contributing author Anton Leykin. The basic interface is
+    finished, but more methods can always be added, of course.
+
 =============================================================================
-
-Progress log:
-
-He will also interface with Bertini and T-Y. Li's package hompack2.
-
-See progress report of the "bertini" project.
